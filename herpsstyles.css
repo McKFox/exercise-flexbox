@@ -1,0 +1,29 @@
+.everything {
+    max-width: 1000px;
+    margin: auto;
+    flex-direction: row-reverse;
+}
+
+
+.site-header {
+    background-color: rgb(205, 130, 65);
+}
+
+.sidebar {
+    background-color: rgb(219, 197, 107);
+    padding: 20px;
+    margin-right: 10px;   
+}
+
+.inbetweens {
+    display: flex;
+}
+
+.main-content {
+    background-color: rgb(200, 104, 101);
+}
+
+.footer {
+    background-color: rgb(235, 181, 47);
+}
+
